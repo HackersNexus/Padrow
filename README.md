@@ -10,7 +10,7 @@ pkg install wget
 pkg install unzip
 ```
 
-## For Replit Operatives ([Link Text](https://replit.com))
+## For Replit Operatives ([Replit](https://replit.com))
 ```
 apt install wget
 apt install unzip
