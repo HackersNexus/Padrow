@@ -12,8 +12,8 @@ pkg install unzip
 
 ## For Replit Operatives ([Replit](https://replit.com))
 ```
-apt install wget
-apt install unzip
+ wget
+ unzip
 ```
 
 ---
@@ -27,7 +27,7 @@ unzip Padrow.zip
 ---
 
 ## Access Key Required
-> PASSCODE: `HackersNexus`  
+> PASSWROD: `HackersNexus`  
 > _This is your key to the vault. Handle it with care._
 
 ---
